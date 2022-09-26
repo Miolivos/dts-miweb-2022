@@ -1,0 +1,114 @@
+body {
+	background-color: #2C2C34;
+}
+
+.bandera{
+	width: 300px;
+	height: 200px;
+	background-color: #E51A1F; 
+	margin: 40px;
+	display: inline-block;
+}
+	.columnav{
+		width: 120px;
+		height: 200px;
+		background-color: #12662E;
+	}
+
+	.escudo{
+		height: 180px;
+		width: 320px;
+		position: absolute;
+		margin-left: -40px;
+		margin-top: 15px;
+	}
+
+
+.bandera2{
+	width: 300px;
+	height: 200px;
+	background-color: #CE1327;
+	margin: 40px;
+	display: inline-block;
+}
+
+	.franjaa{
+		width: 300px;
+		height: 100px;
+		background-color: #22315E;
+		margin-top: 51px;
+	}
+
+	.circulo{
+		width:80px ;
+		height:80px ;
+		position: absolute;
+		margin-left: 110px;
+		margin-top: 60px;
+	}
+
+
+.bandera3{
+	width: 300px;
+	height: 200px;
+	background-color: #125089;
+	margin: 40px;
+	display: inline-block;
+}
+	
+	.columnaav{
+		width: 40px;
+		height: 200px;
+		background-color: #FCC017;
+		margin-left: 85px;
+	}
+
+	.franjaah{
+		width: 300px;
+		height: 40px;
+		background-color: #FCC017;
+		margin-top: -120px;
+		position: absolute;
+	}
+
+.bandera4{
+	width: 300px;
+	height: 200px;
+	background-color: #EE0000;
+	margin: 40px;
+	display: inline-block;
+}
+
+	.franjab1{
+		width: 300px;
+		height: 40px;
+		background-color: white;
+		margin-top: 40px;
+		position: absolute;
+	}
+
+	.franjab2{
+		width: 300px;
+		height: 42px;
+		background-color: white;
+		margin-top: 120px;
+		position: absolute;
+	}
+
+	.trianguloeq{
+		width:0px;
+		height:0px;
+		border-top:100px solid transparent;
+		border-bottom:100px solid transparent;
+		border-left:150px  solid #0050F0;
+		position: absolute;
+	}
+
+	.estrella{
+		width: 60px;
+		height: 60px;
+		position: absolute;
+		margin-top: 65px;
+		margin-left: 25px;
+	}
+

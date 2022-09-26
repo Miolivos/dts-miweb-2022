@@ -1,0 +1,349 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #BCD8C1 ;	
+}
+
+.nombre {
+ 	width: 100%;
+	height: 200px;
+	background: #00A878;
+	transform: translate(-300px);
+	border-radius: 45px;
+}
+
+.nombre .contenido {
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	left: 25%;
+	transform: translate(40px);
+}
+
+.nombre .contenido .línea1 {
+	color: #DFE0E2;
+	font-family: 'Syne', sans-serif;
+	font-weight: bolder;
+	font-size: 30px;
+	transform: translate(40px);
+}
+
+.nombre .contenido .línea2 {
+	color: #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	transform: translate(40px);
+}
+
+.nombre .imágen {
+	position: absolute;
+	top: 5%;
+	left: 105%;
+	width: 180px;
+	height: 180px;
+	border-radius: 100%;
+	overflow: hidden;
+}
+
+.nombre .imágen img {
+	width: 180px;
+	height: 225px;
+}
+
+.Reglón1 {
+	width: 90%;
+	height: auto ;
+	background: #00A878;
+	margin: 5% auto;
+	padding: 20px;
+	border-radius: 40px;
+}
+
+.Reglón1 .PrimeraSección {
+	color: #DFE0E2;
+	font-family: 'Syne', sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px #DFE0E2 dotted;
+}
+
+.Reglón1 .PrimerTítulo {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	font-size: large;
+	display: inline;
+	margin-right: 20px;
+}
+
+.Reglón1 .infoprimertítulo {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón1 .segundotítulo {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	font-size: large;
+	display: inline;
+	margin-right: 20px;
+}
+
+.Reglón1 .infost {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón1 .tercertítulo {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	font-size: large;
+	display: inline;
+	margin-right: 20px;
+}
+
+.Reglón1 .infott {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón1 .cuartotítulo {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	font-size: large;
+	display: inline;
+	margin-right: 20px;
+}
+
+.Reglón1 .infoct {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón1 .quintotítulo {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	font-size: large;
+	display: inline;
+	margin-right: 20px;
+}
+
+.Reglón1 .infoqt {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón1 .sextotítulo {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	font-size: large;
+	display: inline;
+	margin-right: 20px;
+}
+
+.Reglón1 .infoset {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón2 {
+	width: 90%;
+	height: auto ;
+	background: #00A878;
+	margin: 5% auto;
+	padding: 20px;
+	border-radius: 40px;
+}
+
+.Reglón2 .SegundaSección {
+	color: #DFE0E2;
+	font-family: 'Syne', sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px #DFE0E2 dotted;
+}
+
+.Reglón2 .infoss {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón3 {
+	width: 90%;
+	height: auto ;
+	background: #00A878;
+	margin: 5% auto;
+	padding: 20px;
+	border-radius: 40px;
+}
+
+.Reglón3 .TerceraSección {
+	color: #DFE0E2;
+	font-family: 'Syne', sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px #DFE0E2 dotted;
+}
+
+.Reglón3 .pe {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón3 .se {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón3 .te {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón3 .ce {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón3 .qe {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón3 .see {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón4 {
+	width: 90%;
+	height: auto ;
+	background: #00A878;
+	margin: 5% auto;
+	padding: 20px;
+	border-radius: 40px;
+}
+
+.Reglón4 .CuartaSección {
+	color: #DFE0E2;
+	font-family: 'Syne', sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px #DFE0E2 dotted;
+}
+
+.Reglón4 .PE {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón4 .SE {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón4 .TE {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón4 .CE {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
+
+.Reglón5 {
+	width: 90%;
+	height: auto ;
+	background: #00A878;
+	margin: 5% auto;
+	padding: 20px;
+	border-radius: 40px;
+}
+
+.Reglón5 .QuintaSección {
+	color: };
+
+	font-family: 'Syne', sans-serif;
+	font-size: xx-large;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 2px #DFE0E2 dotted;
+}
+
+.Reglón5 .Pe {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+	font-size: large;
+	display: inline;
+	margin-right: 20px;
+}
+
+.Reglón5 .Se {
+	color:  #DFE0E2;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: large;
+	display: inline;
+}
